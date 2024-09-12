@@ -5942,13 +5942,8 @@
     "name": "*New* Host Penetration",
     "type": "folder",
     "children": [
-	    
-	   {
-        "name": "Privilege Escalation",
-        "type": "folder",
-	"children": [
-      {
-        "name": "GTFOBins Linux",
+	{
+        "name": "GTFOBins Linux Privilege Escalation",
         "type": "url",
         "url": "https://gtfobins.github.io/"
       }]
