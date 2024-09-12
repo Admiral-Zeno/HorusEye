@@ -5939,7 +5939,7 @@
     }]
   },
 	  {
-    "name": "[*New*] Host Penetration",
+    "name": "*New* Host Penetration",
     "type": "folder",
     "children": [
 	    
@@ -5952,7 +5952,7 @@
         "type": "url",
         "url": "https://gtfobins.github.io/"
       }]
-	   }],
+	   
 	  },
   {
     "name": "AI Tools",
