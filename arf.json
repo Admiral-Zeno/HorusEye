@@ -2,16 +2,6 @@
   "name": "OSINT Framework",
   "type": "folder",
   "children": [
-	       {
-      "name": "Privilege Escalation",
-      "type": "folder",
-      "children": [
-      {
-        "name": "--",
-        "type": "url",
-        "url": "----"
-      }]
-    },
   {
     "name": "Username",
     "type": "folder",
@@ -5948,7 +5938,6 @@
       "url": "https://nikto.online/"
     }]
   },
-	
   {
     "name": "AI Tools",
     "type": "folder",
@@ -6497,7 +6486,11 @@
         "type": "url",
         "url": "https://www.pexels.com/"
       },
-      ]
+      {
+        "name": "Faker.js",
+        "type": "url",
+        "url": "https://cdn.rawgit.com/Marak/faker.js/master/examples/browser/index.html"
+      }]
     },
     {
       "name": "Anonymous Browsing",
@@ -6931,4 +6924,3 @@
     }]
   }]
 }
-
