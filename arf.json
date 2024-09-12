@@ -6486,11 +6486,7 @@
         "type": "url",
         "url": "https://www.pexels.com/"
       },
-      {
-        "name": "Faker.js",
-        "type": "url",
-        "url": "https://cdn.rawgit.com/Marak/faker.js/master/examples/browser/index.html"
-      }]
+      ]
     },
     {
       "name": "Anonymous Browsing",
