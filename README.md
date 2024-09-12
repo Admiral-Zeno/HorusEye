@@ -17,9 +17,7 @@ For new resources, please ensure that the site is available for public and free 
 }
 ```
 
-<ol start="2">
-  <li>Submit pull request!</li>
-</ol>
+
 
 Thank you!
 
