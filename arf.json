@@ -5938,6 +5938,21 @@
       "url": "https://nikto.online/"
     }]
   },
+	  {
+    "name": "[*New*] Host Penetration",
+    "type": "folder",
+    "children": [
+	    
+	   {
+        "name": "Privilege Escalation",
+        "type": "folder",
+	"children": [
+      {
+        "name": "GTFOBins Linux",
+        "type": "url",
+        "url": "https://gtfobins.github.io/"
+      }]
+	   },
   {
     "name": "AI Tools",
     "type": "folder",
