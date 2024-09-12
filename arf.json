@@ -5287,6 +5287,16 @@
       "url": "http://www.start.umd.edu/gtd/"
     }]
   },
+	    {
+    "name": "Host Penetration",
+    "type": "folder",
+    "children": [
+    {
+      "name": "Linux Privilege Escalation",
+      "type": "url",
+      "url": "https://gtfobins.github.io/"
+    }]
+  },
   {
     "name": "Dark Web",
     "type": "folder",
