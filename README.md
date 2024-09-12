@@ -1,7 +1,6 @@
-# OSINT Framework
+### Our Link
 
-[[http://osintframework.com](https://admiral-zeno.github.io/Admiral_OSINT/)](https://admiral-zeno.github.io/Admiral_OSINT/)
-
+https://admiral-zeno.github.io/Admiral_OSINT/
 
 
 ### Contribute with a GitHub Pull Request
