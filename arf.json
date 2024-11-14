@@ -263,7 +263,7 @@
     }]
   },
   {
-    "name": "🔥 Domain Name",
+    "name": "Domain Name",
     "type": "folder",
     "children": [
     {
@@ -357,14 +357,9 @@
       }]
     },
     {
-      "name": "🔥 Subdomains",
+      "name": "Subdomains",
       "type": "folder",
       "children": [
-	      {
-        "name": "Subdomain Finder",
-        "type": "url",
-        "url": "https://subdomainfinder.c99.nl/"
-      },
         {
         "name": "SynapsInt",
         "type": "url",
@@ -5293,7 +5288,7 @@
     }]
   },
 	    {
-    "name": "🔥 Host Penetration",
+    "name": "🔥New🔥 Host Penetration",
     "type": "folder",
     "children": [
     {
@@ -5769,7 +5764,7 @@
     }]
   },
   {
-    "name": "🔥 Tools",
+    "name": "Tools",
     "type": "folder",
     "children": [
     {
@@ -5935,11 +5930,6 @@
         "name": "OWASP D4N155 (T)",
         "type": "url",
         "url": "https://github.com/OWASP/D4N155"
-      }
-       {
-        "name": "Commonspeak Generation Tool",
-        "type": "url",
-        "url": "https://github.com/pentester-io/commonspeak"
       }]
     },
     {
@@ -6479,18 +6469,13 @@
     }]
   },
   {
-    "name": "🔥 OpSec",
+    "name": "OpSec",
     "type": "folder",
     "children": [
     {
-      "name": "🔥 Persona Creation",
+      "name": "Persona Creation",
       "type": "folder",
       "children": [
-	      {
-        "name": "Data Generator Engine ",
-        "type": "url",
-        "url": "https://generatedata.com/generator"
-      },
       {
         "name": "Fake Name Generator",
         "type": "url",
